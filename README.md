@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yishuiwang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 😅😅😅😅😅
-##perfer Golang
+## Perfer Golang
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yishuiwang&theme=light&show_icons=true)
 
 目前还是一事无成
