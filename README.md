@@ -6,13 +6,8 @@
 ## GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yishuiwang&theme=light&show_icons=true)
 
-一事无成(因为种种原因放弃了写博客)
-
-😅😅😅😅😅
 
 😭😭😭😭😭
-
-🥵🥵🥵🥵🥵
 
 🥰🥰🥰🥰🥰
 
