@@ -9,6 +9,6 @@
 
 
 😭😭😭😭😭
-##  Code Change The World  :)
+##  死体が喋っている  :)
 🥰🥰🥰🥰🥰
 
