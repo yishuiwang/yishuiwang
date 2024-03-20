@@ -1,5 +1,5 @@
 
-# Infinite parallel universe, everything is possible.
+# Trying to understand everything.
 
 ## Top Langs
 ![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=yishuiwang&layout=compact&hide=cmake&exclude_repo=csapp&orgs=TmodPanel)
