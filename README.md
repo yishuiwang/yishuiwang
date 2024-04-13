@@ -1,9 +1,6 @@
 
 # Trying to understand everything.
 
-## Top Langs
-![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=yishuiwang&layout=compact&hide=cmake&exclude_repo=csapp&orgs=TmodPanel)
-
 ## GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.zohan.tech/api?username=yishuiwang&theme=light&show_icons=true)
 
