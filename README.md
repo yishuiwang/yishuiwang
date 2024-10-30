@@ -1,5 +1,5 @@
 ## 👋 Hi there!
-I'm `scruffy` , a student studying in RUC in China Mainland.
+I'm `scruffy` , a student studying in RUC.
 
 
 
@@ -45,6 +45,7 @@ I'm `scruffy` , a student studying in RUC in China Mainland.
 ### ☁️ Cloud Platform
 ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![腾讯云](https://img.shields.io/badge/Tencent%20Cloud-%2300B5E2.svg?style=for-the-badge&logo=tencent-cloud&logoColor=white)
@@ -59,6 +60,5 @@ I'm `scruffy` , a student studying in RUC in China Mainland.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yishuiwang)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zsbsdb)
 [![Mail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yishuiwang163@gmail.com)
-[![Bangumi](https://img.shields.io/badge/Bangumi-%23F09199.svg?style=for-the-badge&logo=bangumi&logoColor=white)](https://bangumi.tv/user/706633)
 
 
