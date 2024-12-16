@@ -8,6 +8,7 @@ I'm `scruffy` , a student studying in RUC.
 ### 📣 Notices
 - Trying to understand everything.
 - Rise above. Focus on science.
+-  Human praise is the praise of courage! Human greatness is the greatness of courage! 
 
 
 ---
