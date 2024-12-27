@@ -17,17 +17,12 @@ I'm `scruffy` , a student studying in RUC.
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-%23999999.svg?style=for-the-badge&logo=apple&logoColor=white)
-![OpenWrt](https://img.shields.io/badge/OpenWrt-%230060B8.svg?style=for-the-badge&logo=openwrt&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-%23019733.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Chrome](https://img.shields.io/badge/Chrome-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-%233498DB.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-%233498DB.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 
 
